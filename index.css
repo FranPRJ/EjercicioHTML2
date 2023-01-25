@@ -1,0 +1,21 @@
+body, form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.formulario{
+    background-color: lightblue;
+    width: 400px;
+    height: 240px;
+    margin-left: 35%;
+}
+
+.input-usuario{
+    padding-top: 25px;
+}
+
+.btn-acceder{
+    margin-top: 20px;
+    
+}
